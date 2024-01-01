@@ -1,0 +1,33 @@
+@font-face {
+        font-family: "Roboto";
+        src: url(../assest/fonts/roboto/Roboto-Regular.ttf) format('truetype');
+        }
+        
+        @font-face {
+        font-family: "Poppins";
+        src: url(../assest/fonts/Poppins/Poppins-Black.ttf) format('truetype');
+        }
+.wpb_video_widget .wpb_video_wrapper {
+        padding-top: 0%!important; 
+        position: relative;
+        width: 100%;
+}
+/*.background-person-helena2{
+         background-image: url("assets/images/x.jpg")!important;
+}
+
+.page-home .message-from-ceo {
+background-image: url("conference-room.jpg")!important;
+}*/
+
+
+
+
+.testimonial-card .person-image img{    
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    display: flex;
+    justify-content: center;
+  }
